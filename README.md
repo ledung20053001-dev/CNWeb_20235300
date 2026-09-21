@@ -2,7 +2,6 @@
 
 ## AI / Backend Engineer Intern
 
-![Ảnh chân dung của Lê Công Dũng](cv_photo.jpg)
 
 - **Địa chỉ:** Hà Nội, Việt Nam
 - **Số điện thoại:** [0862619836](tel:+84862619836)
