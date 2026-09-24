@@ -1,0 +1,18 @@
+Hãy đọc file index.html và tạo một file mới tên index_new.html trong cùng thư mục.
+
+Yêu cầu:
+1. Refactor cấu trúc trang sang HTML5 semantic để cải thiện SEO và khả năng truy cập cơ bản.
+2. Sử dụng hợp lý các thẻ: header, nav, main, section, article, aside và footer.
+3. Giữ nguyên toàn bộ nội dung hiển thị, thứ tự các khối, đường dẫn, hình ảnh, class và id quan trọng của index.html.
+4. Không sửa hoặc ghi đè index.html.
+5. Không tạo layout mới, không đổi màu sắc, kích thước, khoảng cách hay typography.
+6. Tiếp tục sử dụng css/style.css hiện có. Nếu việc đổi thẻ khiến selector CSS cũ không còn áp dụng, chỉ bổ sung selector tương thích tối thiểu vào CSS; không thiết kế lại giao diện.
+7. Bổ sung lang cho thẻ html, meta description ngắn gọn, nhãn truy cập cho form tìm kiếm và aria-label/aria-current khi phù hợp.
+8. Không thêm JavaScript hoặc thư viện ngoài.
+9. Sau khi hoàn thành, kiểm tra:
+   - index_new.html chứa đủ header, nav, main, article, aside và footer;
+   - tất cả tài nguyên cục bộ vẫn tồn tại;
+   - văn bản hiển thị của index_new.html giống index.html;
+   - bố cục khi mở trên trình duyệt không thay đổi.
+
+Hãy thực hiện chỉnh sửa trực tiếp và báo cáo ngắn gọn các thẻ semantic đã thay đổi.
